@@ -1,0 +1,23 @@
+
+.atras{ 
+    display: block;
+    width: 40px;
+     width: 30;
+    height: 30;
+    
+}
+.merca{
+    display: block;
+    width: 80px;
+    width: 10;
+   height: 10;
+   border-radius: 60px;
+ }
+ .pa{
+    background:( rgb(248, 250, 108));
+    text-align: center;
+    color:black;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+ }
